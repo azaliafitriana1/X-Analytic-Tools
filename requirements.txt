@@ -1,8 +1,8 @@
 streamlit
 pandas
 plotly
-transformers
-scikit-learn
-wordcloud
 matplotlib
+wordcloud
+scikit-learn
+transformers
 torch
